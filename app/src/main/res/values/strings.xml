@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tesoem">tecnologico de estudios superiores del oriente del estado de mexico</string>
+    <string name="osuma">SUMA</string>
+    <string name="oresta">RESTA</string>
+    <string name="opotencia">POTENCIA</string>
+    <string name="osalir">SALIR</string>
+    <string name="vcalcular">CALCULAR</string>
+    <string name="mval1">Numero 1</string>
+    <string name="mval2">Num 2</string>
+    <string name="osalir">SALIR</string>
+    <string name="saludoventana">saludo nueva ventana</string>
+    <string name="mnombre">NOMBRE</string>
+    <string name="mbtnsaludo">saludo emergente</string>
+    <string name="mopera">operaciones</string>
+    <string name="mval1">Numero 1</string>
+    <string name="nval2">Num2</string>
+    <string name="vcalcular1">calcular</string>
+</resources>
